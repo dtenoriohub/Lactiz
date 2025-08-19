@@ -28,5 +28,5 @@ void loop() {
 
   Serial.print("pH: ");
   Serial.println(pHValue, 2);
-  delay(500);
+  delay(20);
 }
